@@ -108,7 +108,7 @@ export default function LandingPage() {
             {
               id: "suite",
               brand: "Alpine Luxe",
-              name: "Panoramic Suite",
+              name: "Panoramic Room",
               price: "CHF 750",
               rating: 5,
               reviewCount: "312",
